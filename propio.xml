@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+     <title>Mi propio XML para podcast</title>
+        <link>https://www.rtve.es/play/audios/50/</link>
+    <description>Internet, móviles, relojes, aplicaciones, cultura digital y ocio electrónico.</description>
+    <language>es</language>
+    <image>
+       <title>5.0</title>
+       <url>https://img2.rtve.es/imagenes/50/1624028284337.jpg</url>
+       <link>https://www.rtve.es/play/audios/50/</link>
+    </image>
+  </channel>
+</rss>
